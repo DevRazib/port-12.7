@@ -1,0 +1,63 @@
+@media screen and (min-width: 0px) and (max-width: 991px){
+   
+.filter-icons ul li a{
+	width: 50px;
+	height: 50px;
+	display: inline-block;
+	border-radius: 50%;
+	background-color:#b6c0c1;
+	margin-right: 4px;
+}
+.filter-icons ul li a.fa{
+	font-size: 20px;
+}
+.filter-icons ul li span{
+	padding: 8px;
+}
+.product-price span{
+	padding: 5px 10px;
+	margin-left:0;
+	
+}
+.navbar-toggler:focus{
+	box-shadow:none;
+}
+.middle{
+	margin-left: 50px
+}
+}
+@media screen and (min-width: 0px) and (max-width: 767px){
+	.counterup{
+		height: 70vh;
+		padding-bottom: 50px;
+		padding-top: 50px;
+	}
+ .counterup span{
+	font-size: 25px;
+}
+.counterup h4{
+	font-size: 20px;
+	margin-top: 0px;
+}
+}
+
+@media screen and (min-width: 0px) and (max-width: 480px){
+ 	.heading{
+	margin-top: 20px;
+}
+.form-group{
+	margin-bottom: 10px
+}
+.filter-icons{
+	margin-top: 10px;
+}
+.single-counter{
+	margin-left:130px;
+}
+.middle{
+	margin-left: 70px
+}
+}
+@media screen and (min-width: 0px) and (max-width: 320px){
+   
+}
